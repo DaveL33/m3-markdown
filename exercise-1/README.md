@@ -8,4 +8,4 @@ See `complete` branch for an example.
 
 > Become like water, my friend
 
-http://www.goodreads.com/quotes/163198-you-must-be-shapeless-formless-like-water-when-you-pour
+[Bruce Lee quote](http://www.goodreads.com/quotes/163198-you-must-be-shapeless-formless-like-water-when-you-pour)
