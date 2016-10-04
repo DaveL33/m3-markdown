@@ -6,6 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-> Become like water, my friend >
+> Become like water, my friend
 
 http://www.goodreads.com/quotes/163198-you-must-be-shapeless-formless-like-water-when-you-pour
